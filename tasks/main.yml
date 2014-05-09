@@ -10,6 +10,7 @@
     - python-pip
     - python-dev
     - build-essential
+    - firefox
 
 - name: upgrade pip
   shell: pip install --upgrade pip
@@ -24,3 +25,5 @@
   with_items:
     - robotframework
     - robotframework-selenium2library
+
+
