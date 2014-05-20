@@ -9,6 +9,7 @@
   with_items:
     - python-pip
     - python-dev
+    - python-xmpp
     - build-essential
     - firefox
 
