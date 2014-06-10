@@ -20,6 +20,7 @@
     - python-xmpp
     - build-essential
     - firefox
+    - xvfb
 
 - name: upgrade pip
   shell: pip install --upgrade pip
