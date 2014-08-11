@@ -36,9 +36,3 @@
     - robotframework
     - robotframework-selenium2library
 
-#TODO!!
-# start if  hub:
-#java -jar selenium-server-standalone-2.42.0.jar -role hub
-# start if slave
-#java -jar selenium-server-standalone-2.42.0.jar -role node -hub http://<hub_url>:<hub_port>/grid/register 
-
