@@ -1,0 +1,11 @@
+---
+galaxy_info:
+  author: Antti Koskinen
+  description: Installs Robot Framwork with selenium2library 
+  company: Digile Oy
+  license: GPLv2
+  min_ansible_version: 1.2
+
+dependencies: []
+
+
